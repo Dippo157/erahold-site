@@ -1,0 +1,6 @@
+*.jks
+*.keystore
+*credentials*
+.env
+.env.*
+secrets/
